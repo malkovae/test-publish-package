@@ -3,9 +3,8 @@
   "publishConfig": {
     "@malkovae:registry": "https://npm.pkg.github.com"
   },
-  "version": "1.0.4",
+  "version": "1.0.7",
   "description": "",
-  "private": "true",
 
   "main": "dist/test-package.ssr.js",
   "browser": "dist/test-package.esm.js",
