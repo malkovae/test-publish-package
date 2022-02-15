@@ -6,6 +6,10 @@ on:
     paths:
       - "package/**"
 
+defaults:
+  run:
+    working-directory: ./package
+
 jobs:
   build:
     runs-on: ubuntu-latest
