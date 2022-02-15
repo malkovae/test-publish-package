@@ -1,5 +1,5 @@
 {
-  "name": "@malkovae/test-package",
+  "name": "@malkovae/test-publish-package",
   "publishConfig": {
     "@malkovae:registry": "https://npm.pkg.github.com"
   },
