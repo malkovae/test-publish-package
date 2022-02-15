@@ -991,6 +991,11 @@
     "@jridgewell/resolve-uri" "^3.0.3"
     "@jridgewell/sourcemap-codec" "^1.4.10"
 
+"@malkovae/test-publish-package@1.0.0":
+  version "1.0.0"
+  resolved "https://npm.pkg.github.com/download/@malkovae/test-publish-package/1.0.0/6f03aac09ffdcaa6d334082fe05702e67acde1841f723131549d029e3bab97c7#7c255188483fea6f65ed249d2b275485f9658d50"
+  integrity sha512-gQSFxdsx/AVEdzpcKtHT04vKeOf4bzp1Pk1WJhsx/79pMQzDgYnU55u/D8AHYAxhiVjtBKhiOhteiyRU8iYrtA==
+
 "@mrmlnc/readdir-enhanced@^2.2.1":
   version "2.2.1"
   resolved "https://registry.yarnpkg.com/@mrmlnc/readdir-enhanced/-/readdir-enhanced-2.2.1.tgz#524af240d1a360527b730475ecfa1344aa540dde"
