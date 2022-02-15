@@ -3,7 +3,7 @@
   "publishConfig": {
     "@malkovae:registry": "https://npm.pkg.github.com"
   },
-  "version": "1.0.3",
+  "version": "1.0.4",
   "description": "",
   "private": "true",
 
