@@ -53,6 +53,7 @@ export default /*#__PURE__*/Vue.extend({
 
 <template>
   <div class="test-package-sample">
+    <h1>Demo component</h1>
     <p>The counter was {{ changedBy }} to <b>{{ counter }}</b>.</p>
     <button @click="increment">
       Click +1
