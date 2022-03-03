@@ -13,6 +13,7 @@ export default Vue.extend({
 
 <template>
   <div id="app">
+    <h1>Hello!</h1>
     <test-package-sample />
   </div>
 </template>
