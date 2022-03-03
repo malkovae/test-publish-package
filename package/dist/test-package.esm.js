@@ -189,7 +189,7 @@ var __vue_render__ = function () {
 
   return _c('div', {
     staticClass: "test-package-sample"
-  }, [_c('p', [_vm._v("The counter was " + _vm._s(_vm.changedBy) + " to "), _c('b', [_vm._v(_vm._s(_vm.counter))]), _vm._v(".")]), _vm._v(" "), _c('button', {
+  }, [_c('h1', [_vm._v("Demo component")]), _vm._v(" "), _c('p', [_vm._v("The counter was " + _vm._s(_vm.changedBy) + " to "), _c('b', [_vm._v(_vm._s(_vm.counter))]), _vm._v(".")]), _vm._v(" "), _c('button', {
     on: {
       "click": _vm.increment
     }
@@ -221,8 +221,8 @@ var __vue_staticRenderFns__ = [];
 
 const __vue_inject_styles__ = function (inject) {
   if (!inject) return;
-  inject("data-v-6025d3cd_0", {
-    source: ".test-package-sample[data-v-6025d3cd]{display:block;width:400px;margin:25px auto;border:1px solid #ccc;background:#eaeaea;text-align:center;padding:25px}.test-package-sample p[data-v-6025d3cd]{margin:0 0 1em}",
+  inject("data-v-2744a54e_0", {
+    source: ".test-package-sample[data-v-2744a54e]{display:block;width:400px;margin:25px auto;border:1px solid #ccc;background:#eaeaea;text-align:center;padding:25px}.test-package-sample p[data-v-2744a54e]{margin:0 0 1em}",
     map: undefined,
     media: undefined
   });
@@ -230,7 +230,7 @@ const __vue_inject_styles__ = function (inject) {
 /* scoped */
 
 
-const __vue_scope_id__ = "data-v-6025d3cd";
+const __vue_scope_id__ = "data-v-2744a54e";
 /* module identifier */
 
 const __vue_module_identifier__ = undefined;

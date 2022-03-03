@@ -222,7 +222,7 @@ var __vue_render__ = function __vue_render__() {
 
   return _c('div', {
     staticClass: "test-package-sample"
-  }, [_vm._ssrNode("<p data-v-6025d3cd>" + _vm._ssrEscape("The counter was " + _vm._s(_vm.changedBy) + " to ") + "<b data-v-6025d3cd>" + _vm._ssrEscape(_vm._s(_vm.counter)) + "</b>.</p> <button data-v-6025d3cd>\n    Click +1\n  </button> <button data-v-6025d3cd>\n    Click -1\n  </button> <button data-v-6025d3cd>\n    Click +5\n  </button> <button data-v-6025d3cd>\n    Click -5\n  </button> <button data-v-6025d3cd>\n    Reset\n  </button>")]);
+  }, [_vm._ssrNode("<h1 data-v-2744a54e>Demo component</h1> <p data-v-2744a54e>" + _vm._ssrEscape("The counter was " + _vm._s(_vm.changedBy) + " to ") + "<b data-v-2744a54e>" + _vm._ssrEscape(_vm._s(_vm.counter)) + "</b>.</p> <button data-v-2744a54e>\n    Click +1\n  </button> <button data-v-2744a54e>\n    Click -1\n  </button> <button data-v-2744a54e>\n    Click +5\n  </button> <button data-v-2744a54e>\n    Click -5\n  </button> <button data-v-2744a54e>\n    Reset\n  </button>")]);
 };
 
 var __vue_staticRenderFns__ = [];
@@ -230,8 +230,8 @@ var __vue_staticRenderFns__ = [];
 
 var __vue_inject_styles__ = function __vue_inject_styles__(inject) {
   if (!inject) return;
-  inject("data-v-6025d3cd_0", {
-    source: ".test-package-sample[data-v-6025d3cd]{display:block;width:400px;margin:25px auto;border:1px solid #ccc;background:#eaeaea;text-align:center;padding:25px}.test-package-sample p[data-v-6025d3cd]{margin:0 0 1em}",
+  inject("data-v-2744a54e_0", {
+    source: ".test-package-sample[data-v-2744a54e]{display:block;width:400px;margin:25px auto;border:1px solid #ccc;background:#eaeaea;text-align:center;padding:25px}.test-package-sample p[data-v-2744a54e]{margin:0 0 1em}",
     map: undefined,
     media: undefined
   });
@@ -239,10 +239,10 @@ var __vue_inject_styles__ = function __vue_inject_styles__(inject) {
 /* scoped */
 
 
-var __vue_scope_id__ = "data-v-6025d3cd";
+var __vue_scope_id__ = "data-v-2744a54e";
 /* module identifier */
 
-var __vue_module_identifier__ = "data-v-6025d3cd";
+var __vue_module_identifier__ = "data-v-2744a54e";
 /* functional template */
 
 var __vue_is_functional_template__ = false;
