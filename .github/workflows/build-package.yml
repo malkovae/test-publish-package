@@ -22,7 +22,7 @@ jobs:
       - run: yarn build
       - run: yarn test
       - uses: stefanzweifel/git-auto-commit-action@v4
-      with:
-        commit_message: Build library
-    env:
-      NODE_AUTH_TOKEN: ${{secrets.GITHUB_TOKEN}}
+        with:
+          commit_message: Build library
+      env:
+        NODE_AUTH_TOKEN: ${{secrets.GITHUB_TOKEN}}
