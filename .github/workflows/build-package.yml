@@ -3,8 +3,12 @@ name: test-build
 on:
   push:
     branches: [ develop, master ]
+    paths:
+      - "package/**"
   pull_request:
     branches: [ develop, master ]
+    paths:
+      - "package/**"
 
 defaults:
   run:
